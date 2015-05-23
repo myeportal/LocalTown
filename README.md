@@ -8,7 +8,7 @@ The LFO Project Launch ICO white paper has begun and is being worked on daily.  
 
 “Our Marketing Model is centered around the belief that everybody wants to help the local and family owned guys.” –Kelly Kenney
 
-“I see a natural attraction when it comes to LFO specifically,  while bringing a simplified way of customers to use crypto, there will be a huge innovation in Blockchain technologies, and with the marketing model Kelly has perfected, I wouldn’t be surprised if crypto touches every corner of our Globe” -Jeff Grant
+“I see a natural attraction when it comes to LFO specifically,  while bringing a simplified easy way for customers to use crypto, there will be huge savings and repeat business for local communities around the globe, I wouldn’t be surprised if crypto isnt touching every person on the planet worthy of making a decision to purchase something” -Jeff Grant
 
 The LFO Whitepaper is an initial paper to explain what we are proceeding to present to the cryptocurrency marketplace.
 
@@ -64,10 +64,12 @@ What is LFO's Model?
 •	-greatest direct marketing platform on the planet!
 
 
-ICO COIN PACKAGES: (estimated revenue generation for further development is .01 per coin)
-#1: Level A: 5000 
+ICO COIN PACKAGES: 
+(estimated price is earmarked at .01 btc per LFO coin)
+#1: Level A: 5000 coins = 50 bitcoins
 #2: Level B: 2,500-4,999 
 #3: Level C: 1-2,499
+Below 1 LFO coins will be given away to customers as incentives to use our proprietary marketing system.
 
 Purchasing will be available on July 4th, 2015 (softlaunch)
 
