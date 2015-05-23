@@ -1,24 +1,24 @@
 LFO COINS, when fully developed, WILL BE SCRYPT-POS/POI coins, and be accepted in every community on the globe.
 V1.0 is ICO, V2.0 is POS acquisition, or fork, and V3.0 is POI integration at public launch. All three phases are working orders in themeselves. Each version addition serves their foundational priveledges, and are not bound in rules by themselves. In other words, all three are a work in progress for perfection.
 
-Litecoin integration/staging tree
+LFO integration/staging tree
 ================================
 
-http://www.litecoin.org
+http://coin.whatcomcountylfo.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 
-What is Litecoin?
+What is Local Family Owned?
 ----------------
 
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+LFO is a lite version of Bitcoin, similiar in nature to LITECOIN, using scrypt as a proof-of-work algorithm.
+ - 7 minute block targets
+ - subsidy halves in 750k blocks (~3.6years)
+ - ~40,000,000.00 total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 24 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
@@ -32,7 +32,7 @@ information or see http://opensource.org/licenses/MIT.
 
 Development process
 -------------------
-
+The LFO COIN will be developed by the PoS (Proof of Stake) and PoI (Proof of Integrity) standards.
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
@@ -75,53 +75,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./litecoin-qt_test
     
-    LFO (Local Family Owned)
-Strategy/Long term plan
-
-LFO stands for:
-LOCAL FAMILY OWNED
-
-What is LFO?
-LFO is a free local telephone directory for local home owners to use when they want to find local family owned services. We have an 3 click information app, that guides the consumer to the business, resulting in high paying leads to the businesses.
-
-How does LFO work?
-Home owners use our free local telephone directory at no charge, and by doing so, local and family owned businesses earn a profit for their niche product or service. 
-
-What are the benefits of using LFO?
--free to use
--easy to use
--makes things simple
--you can trust the service
--makes the buying process better for home owners
--creates incoming leads for local family owned business owners
-
-What rules does LFO have?
-LFO only has one rule and that is business owners must be currently reporting their workers to labor and industries in order to have their company on the free telephone directory and this rule was specifically created to protect home owners.
-
-Are large corporations allowed to be on LFO?
-Yes. Local means all local services. Family means all family services. The free phone directory does not discriminate in any way shape or form. Any and all local family owned business owners are allowed to benefit from the free telephone directory.
-
-LFO is 100% free to all parties. A local family owned business owner can have their company name, address and phone number on the free telephone directory for no charge and local home owners can go to the web site and use it for free no charge.
-
-How does LFO make money?
-LFO charges local family owned business owners a small monthly fee which is currently $10 per month to add their personal company website to the free telephone directory.
-
-How does LFO get seen?
-LFO has marketing experts design create and advertise directly to home owners in multiple ways which include the computer, and also direct marketing campaigns and doorstep pamphlets encouraging home owner to use the free telephone directory.
-
-Where is LFO?
-LFO is currently in Bellingham, Washington State.
-
-How big is LFO?
-LFO is currently on the ground level model one opened December 15th 2015 and currently has over 1000 users in the Whatcom County area.
-
-How big does LFO want to get?
-LFO is currently only in one county developing model one with the idea that once model one is performing at optimal levels then the proven model will be cloned LFO would like to offer its services in all 3000 counties in the USA and possibly go global in the future.
-
-What is LFO's beliefs?
--creates the best quality leads
--creates the most affordable leads
--promotes local pride in community
--connects home owners to business owners
--greatest direct marketing platform on the planet!
+    
 
