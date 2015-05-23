@@ -82,10 +82,10 @@ LFO stands for:
 LOCAL FAMILY OWNED
 
 What is LFO?
-LFO is a free local telephone directory for local home owners to use when they want to find local family owned services.
+LFO is a free local telephone directory for local home owners to use when they want to find local family owned services. We have an 3 click information app, that guides the consumer to the business, resulting in high paying leads to the businesses.
 
 How does LFO work?
-Home owners can use the free local telephone directory at no charge  and business owners can have their company name, address and phone number listed at no charge.
+Home owners use our free local telephone directory at no charge, and by doing so, local and family owned businesses earn a profit for their niche product or service. 
 
 What are the benefits of using LFO?
 -free to use
@@ -101,8 +101,7 @@ LFO only has one rule and that is business owners must be currently reporting th
 Are large corporations allowed to be on LFO?
 Yes. Local means all local services. Family means all family services. The free phone directory does not discriminate in any way shape or form. Any and all local family owned business owners are allowed to benefit from the free telephone directory.
 
-
-LFO is 100% free to both home owners and local family owned business owners. A local family owned business owner can have their company name, address and phone number on the free telephone directory for no charge and local home owners can go to the web site and use it for free no charge.
+LFO is 100% free to all parties. A local family owned business owner can have their company name, address and phone number on the free telephone directory for no charge and local home owners can go to the web site and use it for free no charge.
 
 How does LFO make money?
 LFO charges local family owned business owners a small monthly fee which is currently $10 per month to add their personal company website to the free telephone directory.
