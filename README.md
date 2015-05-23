@@ -11,27 +11,10 @@ LFO believes that its own marketing models are more effective in bringing in mai
 This LFO Project is requesting any and all members of the cryptocurrency community to make comments, suggest edits, point out potential flaws in the paper, or even add their specialty skills to the further technological development of this blockchain technology. LFO bounties will be rewarded by the LFO Code foundation for all constructive input, both positive and critical (click here for details).
 Note that this paper does not discuss consensus algorithms based on trusted nodes (the systems used by Ripple and Stellar) because while that protocol has similar benefits to those of proof-of-integrity, it requires users to trust third parties and beyond that, depends on trustworthy third parties to support the network by operating nodes, which may or may not happen over time.
 Also not covered in this paper is the enormous side benefit derived from not having to distribute the currency supply to proof-of-work miners to cover their operating costs. Capitalizing on this opportunity, LFO distributes the currency strategically to all the participants who increase its utility and value. Please visit LFO’s wiki  for a summary of LFO’s distribution and user adoption plans.
-LFO is a decentralized peer-to-peer cryptocurrency derived from Sunny King’s Peercoin, which itself was derived from Satoshi Nakamoto’s Bitcoin. As with Peercoin, proof-of-integrity replaces proof-of-work as LFO’s security model, effectively replacing the operating costs of Bitcoin miners (electricity, computers) with the capital costs of holding the currency. Proof-of-integrity also avoids proof-of-work’s inherent tendency towards centralization resulting from competition for coinbase rewards among miners based on lowest cost electricity and hash power.
-LFO increases security relative to Peercoin and other existing proof-of-integrity cur¬rencies in numerous ways, including: (1) incentivizing nodes to continuously stake coins over time through substantially higher mining rewards and lower minimum stake age; (2) abandoning the use of coin age in the mining formula; (3) causing the stake modifier pa¬rameter to change over time for each stake; and (4) utilizing a client that punishes nodes that attempt to mine on multiple branches with duplicate stakes.
+LFO is a decentralized peer-to-peer cryptocurrency derived from Litecoin, which itself was derived from Peercoin, and itself from open source whitepaper of Satoshi Nakamoto’s Bitcoin. 
+LFO increases security relative to Peercoin and other existing proof-of-work currencies in numerous ways, including: (1) incentivizing nodes to continuously stake coins over time through substantially higher mining rewards and lower minimum stake age; (2) abandoning the use of coin age in the mining formula; (3) causing the stake modifier pa¬rameter to change over time for each stake; and (4) utilizing a client that punishes nodes that attempt to mine on multiple branches with duplicate stakes.
 This paper demonstrates how LFO’s proof-of-integrity implementation addresses all commonly raised “nothing at stake” objections to generic proof-of-integrity systems. It also reviews many of the flaws of proof-of-work designs to highlight the potential for an alter¬nate cryptocurrency that solves these flaws.
-Contents
-1	Introduction	3
-2	Proof-of-work and Bitcoin	6
-2.1	How proof-of-work secures the Bitcoin network		6
-2.2	Problems with proof-of-work		8
-2.2.1	Costs of security and transactions in Bitcoin 		8
-2.2.2	Increasing centralization		10
-2.2.3	Divergence of interests between miners and coin holders		11
-2.2.4	Summary of Bitcoin’s proof-of-work problems		12
-3	Proof-of-integrity	12
-3.1	How Peercoin’s proof-of-stake works in contrast to	 proof-of-work		13
-3.2	LFO will utilize both POS and POI (proof-of-integrity design)		19
-3.3	How LFO’s design prevents attacks on transaction history	      …………….…………….   	25
-3.3.1	Simple double spend		26
-3.3.2	History revision using old private keys		29
-3.3.3	Grinding attack		32
-3.3.4	Preprogrammed, long-range attack		36
-4	Conclusion	38 
+
 1	Introduction
 LFO’s technical ambition is to create a cryptocurrency utilizing a POI algo that FIC created, along with keeping all parties honest, secure, cost-efficient and decentralize. This paper explains why LFO chose proof-of-integrity over proof-of-work and proof of stake alone, to align with the LFO Marketing Models. TRUST IS BUILT INTO THIS THESE BUSINESS MODELS. Everybody wants to help the local and family owned guy.
 Over time, the cryptocurrency community has generally become aware of several draw-backs of Bitcoin that spring from its proof-of-work design, including:
