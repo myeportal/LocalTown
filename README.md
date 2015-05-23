@@ -1,6 +1,5 @@
-# LFO-SC-V3.0
-LFO Souce Code v3.0
-LFO: the First Local Family Owned Secure, Cost-efficient and Decentralized Cryptocurrency for  communities. 
+# LFO Souce Code v3.0
+LFO: the First Local Family Owned Secure, Cost-efficient, Decentralized Cryptocurrency for local communities around the globe. 
 Version 3.0 May 23, 2015
 Jeff Grant 
 jeff@kingcountylfo.com
