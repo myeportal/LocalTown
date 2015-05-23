@@ -93,12 +93,3 @@ The paper also rebutted the proof-of-work community’s various “nothing at st
 3.	Causing the stake modifier parameter to change over time for each stake, to substantially increase security against precomputation attacks
 4.	Utilizing a client that punishes nodes that attempt to mine on multiple branches with duplicate stakes
 As a result, LFO’s design solves both the mounting cost and centralization problems of proof-of-work, and the security and centralization problems with earlier proof-of-integrity coins. As such, LFO is the first peer-to-peer cryptocurrency, regardless of technology, that is secure, cost-efficient and decentralized in the long run.
-References
-[1]	G. Andresen. Neutralizing a 51% attack. http://gavintech.blogspot.fr/2012/05/ neutralizing-51-attack.html, 2012. [Online].
-[2]	G. Andresen. Back-of-the-envelope calculations for marginal cost of transactions. https: //gist.github.com/gavinandresen/5044482, 2013. [Online].
-[3]	Bank of England. One bank research agenda, discussion paper. http://www. bankofengland.co.uk/research/Documents/onebank/discussion.pdf/, 2014. [On¬line].
-[4]	C. Decker and R. Wattenhofer. Information propagation in the bitcoin network. In Peer-to- Peer Computing (P2P), 2013 IEEE Thirteenth International Conference on, pages 1-10. IEEE, 2013.
-[5]	M. J. Fischer, N. A. Lynch, and M. Paterson. Impossibility of distributed consensus with one faulty process. J. ACM, 32(2):374-382, April 1985.
-[6]	S. King. Ppcoin: Peer-to-peer crypto-currency with proof-of-integrity. June 2012. [Online].
-[7]	S. Nakamoto. Bitcoin: A peer-to-peer electronic cash system. Consulted, 1(2012):28, 2008.
-[8]	A. Poelstra. Distributed consensus from proof of stake is impossible. 2014. [Online].
