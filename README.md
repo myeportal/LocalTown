@@ -9,7 +9,6 @@ The LFO Project Launch ICO white paper has begun and is being worked on daily.  
 “Our Marketing Model is centered around the belief that everybody wants to help the local and family owned guys.” –Kelly Kenney
 
 “I see a natural attraction when it comes to LFO specifically,  while bringing a simplified easy way for customers to use crypto, there will be huge savings and repeat business for local communities around the globe, I wouldn’t be surprised if crypto isnt touching every person on the planet worthy of making a decision to purchase something” -Jeff Grant
-
 The LFO Whitepaper is an initial paper to explain what we are proceeding to present to the cryptocurrency marketplace.
 
 LFO is a decentralized peer-to-peer cryptocurrency derived from Litecoin, and Litecoin from Sunny King’s Peercoin, which itself was derived from Satoshi Nakamoto’s Bitcoin. 
@@ -64,14 +63,14 @@ What is LFO's Model?
 •	-greatest direct marketing platform on the planet!
 
 
-ICO COIN PACKAGES: 
-(estimated price is earmarked at .01 btc per LFO coin)
-#1: Level A: 5000 coins = 50 bitcoins
+ICO COIN PACKAGES: (estimated revenue generation for further development is .01 per coin)
+#1: Level A: 5000 
 #2: Level B: 2,500-4,999 
 #3: Level C: 1-2,499
-Below 1 LFO coins will be given away to customers as incentives to use our proprietary marketing system.
 
 Purchasing will be available on July 4th, 2015 (softlaunch)
 
 This white paper will demonstrate several case studies, and utilize existing crypto terminologies in its explanations. We have taken into considering our real world business experience and marketing experience to show how a coin benefits both the consumer and producer. 
 
+On behalf of LFO COIN, we thank you all for your continued support and dedication to the LFO project and our platform. 
+We’re excited to see what LFO brings to the table, as blockchain technology is gaining traction with mainstream businesses and LFO COINS is at the forefront of this revolution. 
