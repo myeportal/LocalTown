@@ -12,7 +12,7 @@ Evolved into the following Local Family Owned components.
 4. Mobile-3 click app
 5. Blocks- Public Ledger
 6. Wallet- Online Wallet
-7. Games- Augmented Reality -Local Style
+7. Games- Augmented Reality-A local event
 
 Preface
 The LFO Project Launch ICO white paper has begun and is being worked on daily.  This is what has transpired so far behind the scenes, but two individuals name Jeff Grant and Kelly Kenney, lifelong friends and business associates.
