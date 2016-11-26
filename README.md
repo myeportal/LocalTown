@@ -1,7 +1,17 @@
 LFO:World’s First Global Digital Currency designed to be used in both daily activities, and by local family owned businesses and home owners.
 Version 3.0 May 23, 2015
 Jeff Grant 
-jeff@kingcountylfo.com
+jeff@lfomaps.com
+
+Update: 11/2016:
+Evolved into the following Local Family Owned components:
+World-A global portal for exchanging crypto 
+Gardens-A crowdfund grass roots proposal to end city hunger
+Maps-Token directory with social, economical components
+Mobile-3 click app
+Blocks- Public Ledger
+Wallet- Online Wallet
+Games- Augmented Reality -Local Style
 
 Preface
 The LFO Project Launch ICO white paper has begun and is being worked on daily.  This is what has transpired so far behind the scenes, but two individuals name Jeff Grant and Kelly Kenney, lifelong friends and business associates.
@@ -9,6 +19,7 @@ The LFO Project Launch ICO white paper has begun and is being worked on daily.  
 “Our Marketing Model is centered around the belief that everybody wants to help the local and family owned guys.” –Kelly Kenney
 
 “I see a natural attraction when it comes to LFO specifically,  while bringing a simplified easy way for customers to use crypto, there will be huge savings and repeat business for local communities around the globe, I wouldn’t be surprised if crypto isnt touching every person on the planet worthy of making a decision to purchase something” -Jeff Grant
+
 The LFO Whitepaper is an initial paper to explain what we are proceeding to present to the cryptocurrency marketplace.
 
 LFO is a decentralized peer-to-peer cryptocurrency derived from Litecoin, and Litecoin from Sunny King’s Peercoin, which itself was derived from Satoshi Nakamoto’s Bitcoin. 
