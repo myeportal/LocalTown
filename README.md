@@ -6,13 +6,13 @@ jeff@lfomaps.com
 Update: 11/2016:
 Evolved into the following Local Family Owned components.
 
-1. World-A global portal for exchanging crypto 
-2. Gardens-A crowdfund grass roots proposal to end city hunger
+1. World-Global exchange 
+2. Gardens-Crowdfund grass roots proposal to end city hunger
 3. Maps-Token directory with social, economical components
 4. Mobile-3 click app
-5. Blocks- Public Ledger
-6. Wallet- Online Wallet
-7. Games- Augmented Reality-A local event
+5. Blocks-Public Ledger
+6. Wallet-Online Wallet
+7. Games-Augmented Reality-A local event
 
 Preface
 The LFO Project Launch ICO white paper has begun and is being worked on daily.  This is what has transpired so far behind the scenes, but two individuals name Jeff Grant and Kelly Kenney, lifelong friends and business associates.
