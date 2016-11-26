@@ -68,11 +68,13 @@ How big does LFO feel it can service?
 LFO is currently only in one county developing model one with the idea that once model one is performing at optimal levels then the proven model will be scaled out with LFO Franchises worldwide. LFO would like to offer its services in all 3000 counties in the USA and globally in the near future.
 
 What is LFO's Model?
-•	-creates the best quality leads
-•	-creates the most affordable leads
-•	-promotes local pride in community
-•	-connects home owners to business owners
-•	-greatest direct marketing platform on the planet!
+•	-to create the best quality of leads for our clients
+•	-to create the most affordable lead
+•	-to promote local pride in every community
+•	-to connect home owners with business owners
+
+It is the greatest direct marketing platform on the planet.
+PS. We cover you 3 ways in your marketing dollars.
 
 
 ICO COIN PACKAGES: Prices TBD (Premine Coins Still Available)
@@ -81,8 +83,9 @@ ICO COIN PACKAGES: Prices TBD (Premine Coins Still Available)
 #3: Level C: 1-2,499
 
 Purchasing will be available prior to July 4th, 2017 (Launch)
+The whitepaper demonstrates several case studies, and utilize existing crypto terminologies in its explanations. We have taken into considering our real world business experience and marketing experience to show how a coin benefits both the consumer and producer. 
 
-This white paper will demonstrate several case studies, and utilize existing crypto terminologies in its explanations. We have taken into considering our real world business experience and marketing experience to show how a coin benefits both the consumer and producer. 
-
-On behalf of LFO COIN, we thank you all for your continued support and dedication to the LFO project and our platform. 
-We’re excited to see what LFO brings to the table, as blockchain technology is gaining traction with mainstream businesses and LFO COINS is at the forefront of this revolution. 
+On behalf of LFO, we thank you all for your continued support and dedication to the LFO project and our platform. 
+We’re excited to see what LFO brings to the table, as blockchain technology is gaining traction with mainstream businesses and LFO CORE for the future of its existence.
+Founders
+Jeff & Kelly
