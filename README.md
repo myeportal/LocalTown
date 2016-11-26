@@ -1,5 +1,5 @@
 LFO:World’s First Global Digital Currency designed to be used in both daily activities, and by local family owned businesses and home owners.
-Version 3.0 May 23, 2015
+Version 3.01 May 23, 2015
 Jeff Grant 
 jeff@lfomaps.com
 
