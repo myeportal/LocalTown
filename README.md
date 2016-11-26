@@ -74,12 +74,12 @@ What is LFO's Model?
 •	-greatest direct marketing platform on the planet!
 
 
-ICO COIN PACKAGES: (estimated revenue generation for further development is .01 per coin)
+ICO COIN PACKAGES: Prices TBD (Premine Coins Still Available)
 #1: Level A: 5000 
 #2: Level B: 2,500-4,999 
 #3: Level C: 1-2,499
 
-Purchasing will be available on July 4th, 2015 (softlaunch)
+Purchasing will be available prior to July 4th, 2017 (Launch)
 
 This white paper will demonstrate several case studies, and utilize existing crypto terminologies in its explanations. We have taken into considering our real world business experience and marketing experience to show how a coin benefits both the consumer and producer. 
 
