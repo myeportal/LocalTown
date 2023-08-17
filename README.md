@@ -12,7 +12,7 @@ In an era of urbanization and globalization, many small and medium-sized towns a
 Table of Contents:
 
 Abstract:
-This whitepaper introduces the concept of a Local Town Blockchain Cryptocurrency (LTBC) and explores its potential benefits for local communities. By leveraging blockchain technology, communities can create their own digital currencies that encourage economic growth, foster community engagement, and provide a secure and transparent platform for local transactions. This paper outlines the fundamental aspects of LTBC, its benefits, and its implementation strategies.
+This whitepaper introduces the concept of a Local Town Blockchain Cryptocurrency (LTB) and explores its potential benefits for local communities. By leveraging blockchain technology, communities can create their own digital currencies that encourage economic growth, foster community engagement, and provide a secure and transparent platform for local transactions. This paper outlines the fundamental aspects of LTBC, its benefits, and its implementation strategies.
 
 Table of Contents:
 
