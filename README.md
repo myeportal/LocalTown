@@ -122,6 +122,3 @@ Ensure long-term sustainability through ongoing support and community engagement
 The Local Town Blockchain (LTB) project envisions vibrant and self-sustaining communities empowered by decentralized technology. By promoting economic growth, rekindling social bonds, and encouraging sustainable practices, LTB holds the potential to transform towns and cities into thriving hubs of prosperity and collaboration. We invite you to join us on this journey to revitalize communities and pave the way for a brighter future.
 
 Please note that this is an expanded and detailed version of the white paper, providing a comprehensive overview of the Local Town Blockchain (LTB) project. The white paper should be further refined, supported with data, statistics, graphics, and real-world examples to create a compelling and informative document.
-
-
-
