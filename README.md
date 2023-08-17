@@ -37,7 +37,7 @@ The benefits of decentralization in the context of small and medium-sized towns 
 3. Key Components of LTB
 3.1 Local Digital Currency: Empowering Local Economies
 
-LTB introduces a unique digital currency, Local Town Blockchain Coin (LTBC), tailored for local transactions. LTBC not only facilitates frictionless exchanges within the community but also encourages residents to support local businesses. As LTBC circulates, it promotes a self-sustaining economy that retains more value within the community.
+LTB introduces a unique digital currency, Local Town Blockchain Coin (LTB), tailored for local transactions. LTB not only facilitates frictionless exchanges within the community but also encourages residents to support local businesses. As LTBC circulates, it promotes a self-sustaining economy that retains more value within the community.
 
 3.2 Community Marketplace: Fostering Local Business Relationships
 
@@ -98,6 +98,7 @@ In the town of Greenville, the LTB platform rejuvenated a struggling main street
 7.2 Empowering Local Food Networks
 
 LTB facilitated direct transactions between farmers and consumers in the town of Harvestville. The platform strengthened local food networks, reduced dependence on distant suppliers, and supported sustainable agricultural practices.
+Currently, another project created, called Local Food Pack, a decentralized organic, vertical, horizontal, and omega garden housed containers farming project is being underwritten by LTB.
 
 7.3 Enhancing Educational Institutions
 
@@ -116,7 +117,7 @@ Implementation of decentralized governance mechanisms.
 8.3 Long-term Goals
 
 Scale LTB's presence to additional communities.
-Encourage local business integration with LTBC.
+Encourage local business integration with LTB.
 Ensure long-term sustainability through ongoing support and community engagement.
 9. Conclusion
 The Local Town Blockchain (LTB) project envisions vibrant and self-sustaining communities empowered by decentralized technology. By promoting economic growth, rekindling social bonds, and encouraging sustainable practices, LTB holds the potential to transform towns and cities into thriving hubs of prosperity and collaboration. We invite you to join us on this journey to revitalize communities and pave the way for a brighter future.
