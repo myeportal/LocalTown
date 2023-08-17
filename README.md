@@ -1,42 +1,33 @@
-LFO:World’s First Global Digital Currency designed to be used in both daily activities, and by local family owned businesses and home owners.
-Version 3.01 May 23, 2015
-Jeff Grant 
-jeff@lfomaps.com
-
-Update: 11/2016:
-Evolved into the following Local Family Owned components.
-
-1. World-Global exchange 
-2. Gardens-Crowdfund grass roots proposal to end city hunger
-3. Maps-Token directory with social, economical components
-4. Mobile-3 click app
-5. Blocks-Public Ledger
-6. Wallet-Online Wallet
-7. Games-Augmented Reality-A local event
+Local-Town.com: a Local-Town digital layer 1 blockchain designed to be used within local, something akin to Ithaca-Hours in NY , including daily commerce as barter & trade, by businesses and home farmers markets.
+Version 1.0 Aug 17th 2023
+Jeff Grant & Donn Greathouse
+admin@local-town.com
 
 Preface
-The LFO Project Launch ICO white paper has begun and is being worked on daily.  This is what has transpired so far behind the scenes, but two individuals name Jeff Grant and Kelly Kenney, lifelong friends and business associates.
+The Local-Town Project Launch ICO white paper is available on the website local-town.com
 
-“Our Marketing Model is centered around the belief that everybody wants to help the local and family owned guys.” –Kelly Kenney
+LTB is a decentralized peer-to-peer, layer 1 blockchain, as forked by LTC from Sunny King’s Peercoin, which itself was derived from Satoshi Nakamoto’s Bitcoin. 
+This blockchain runs on a scrypt algo-rythym, and will be minable by anyone with a scrypt miner. Pools can be made, or exchanges can list it openly on their markets
 
-“I see a natural attraction when it comes to LFO specifically,  while bringing a simplified easy way for customers to use crypto, there will be huge savings and repeat business for local communities around the globe, I wouldn’t be surprised if crypto isnt touching every person on the planet worthy of making a decision to purchase something” -Jeff Grant
+Local-Town MARKETING MODEL: $LTB
+Strategy/Long term plans: 
+Our strategy to market is to offer a decentralized way to acquire blockchain tokens, thru either mining or decentralized exchanges. From time to time we may or may not offer free giveaways or rewards or airdrops of tokens to help spread the decentralized aspect. 
+Tokens will be (in dev) available for P2P exchange directly or thru dex models. 
+Businesses can exchange goods for services using the barter method. 
+IE. I would like to offer you 1 tokens for 1 gallon of milk and a dozen eggs. (example only)
 
-The LFO Whitepaper is an initial paper to explain what we are proceeding to present to the cryptocurrency marketplace.
+LTB stands for:
+LOCAL TOWN BARTER 
 
-LFO is a decentralized peer-to-peer cryptocurrency derived from Litecoin, and Litecoin from Sunny King’s Peercoin, which itself was derived from Satoshi Nakamoto’s Bitcoin. 
+What is LFB?
+LTB is Local Town Blockchain, a local town layer 1 barter blockchain, where anyone can use to trade and barter for goods and services.
 
-LFO MARKETING MODEL: LFO (Local Family Owned)
-Strategy/Long term plan
-LFO stands for:
-LOCAL FAMILY OWNED
+How does LTB work?
+Wallets will be used to store and send or receive the blockchain tokens.
+Anyone who wants to trade can barter with sellers who want to sell their goods and services. Essentially, people can barter for goods and services using the blockchain token, similiar to the Ithaca, NY "Hours", an Ithaca "hour" is pegged to 1:10USD.
+1 LTB will be pegged to what the open market is offering, and anyone with a computer or phone will (in future dev) be able to mine for tokens using scrypt hashing.
 
-What is LFO?
-LFO is a free local telephone directory for local home owners to use when they want to find local family owned services. We have an 3 click information app, that guides the consumer to the business, resulting in high paying leads to the businesses.
-
-How does LFO work?
-Home owners use our free local telephone directory at no charge, and by doing so, local and family owned businesses earn a profit for their niche product or service. 
-
-What are the benefits of using LFO?
+What are the benefits of using LTB?
 -free to use
 -easy to use
 -makes things simple
