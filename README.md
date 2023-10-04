@@ -1,4 +1,4 @@
-Local-Town.com: a Local-Town digital layer 1 blockchain designed to be used within local, something akin to Ithaca-Hours in NY , including daily commerce as barter & trade, by businesses and home farmers markets.
+Local-Town.com: a Local-Town digital layer 1 blockchain designed to be used within local communities for barter/trade, something akin to Ithaca-Hours in NY , including daily commerce as barter & trade, by businesses and home farmers markets.
 Version 1.0 Aug 17th 2023
 Founders JG & DG
 admin@local-town.com
